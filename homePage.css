@@ -1,0 +1,26 @@
+/* CSS Document */
+*{ margin:0px; padding:0px; margin:auto;}
+body{ background-color:#DDDDDD;}
+li{  list-style:none;}
+a{ text-decoration:none;}
+.initial{ width:1300px; overflow:visible;}
+.head{ width:1300px; height:60px; background-color:#660099;}
+.head h3{ width:210px; text-align: center; line-height:60px; margin-left:0px; background-color:#6600bb; color:#FFFFFF; font-family: "微软雅黑" !important;}
+.head form{ float:right;}
+.head table a{ color:#FFFFFF;}
+.largebox{ width:1300px; height:600px; background-color:#6600CC;}
+.first{ width:1000px; margin:auto; overflow:visible;}
+.zy li{ float:left; width:300px; height:150px; text-align:center; line-height:150px; margin:5px;}
+.zy li:hover{-webkit-animation:boxAction 1s infinite alternate ease-in-out;
+			-moz-animation:boxAction 1s infinite alternate ease-in-out;
+			-o-animation:boxAction 1s infinite alternate ease-in-out;
+			animation:boxAction 1s infinite alternate ease-in-out;}
+.zy li a{ display:block; font-family: "微软雅黑" !important; font-size:36px; color:#FFFFFF;}
+.zy li a:hover{ background-color:#FFFFFF; color:#000000;}
+.zy li:nth-of-type(5n+1){background-color:#D93535;}
+.zy li:nth-of-type(5n+2){background-color:#C7DE0A;}
+.zy li:nth-of-type(5n+3){background-color:#08BBF1;}
+.zy li:nth-of-type(5n+4){background-color:#000000;}
+.zy li:nth-of-type(5n){background-color: #33CC33;}
+.friends{ background-color:#6600FF; width:920px; height:100px;float:left; margin:5px;}
+.friends p{ font-family: "微软雅黑" !important; color:#CCCCCC;}
