@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+	
+<title>万万花花</title>
+<link href="css/homePage.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="initial">
+		<div class="head">
+<FORM method=GET action="http://www.google.com/search">
+<INPUT TYPE=hidden name=ie value=GB2312>
+<INPUT TYPE=hidden name=oe value=GB2312>
+<INPUT TYPE=hidden name="h1" value="zh-CN">
+<TABLE bgcolor="#660099"><tr><td>
+<a HREF="http://www.google.com/">Google</a>
+</td>
+<td>
+<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+<INPUT TYPE=submit name=btnG VALUE="Google Search">
+</td></tr></TABLE>
+</FORM>
+			<h3>万万花花的个人网址</h3>
+		</div>
+		<div class="largebox">
+		<div class="first">
+		<ul class="zy">
+		<li><a href="javascript:">进入主页</a></li>
+		<li><a href="javascript:">B站资源</a></li>
+		<li><a href="http://space.bilibili.tv/2389930">空间主页</a></li>
+		<li><a href="http://www.bilibili.tv">哔哩哔哩</a></li>
+		<li><a href="javascript:">测试板块</a></li>
+		<li><a href="javascript:">测试板块</a></li>
+		</ul>
+		</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>
